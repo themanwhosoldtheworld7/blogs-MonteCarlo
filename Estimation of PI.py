@@ -1,12 +1,8 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Monte Carlo Estimation of Pi.
 This script demonstrates estimating the value of Pi using the Monte Carlo method
 by simulating random points within a square and counting those within a circumscribed circle.
 
-Created on Sat Apr 20, 2024
-@author: ainishlodaya
 """
 
 import numpy as np
